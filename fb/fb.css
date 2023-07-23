@@ -1,0 +1,103 @@
+body{
+    margin: 0%;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.header{
+    width: 100%;
+    height: 85px;
+    background: #062b5c;
+}
+
+.left-header{
+    width:50%;
+    padding-top: 20px;
+    float: left;
+
+}
+
+.right-header{
+    width:50%;
+    float: left;
+}
+
+.logo-fb{
+    color: white;
+    margin-left: 30px;
+    font-size: 40px;
+    text-decoration:none;
+}
+
+.table-controls{
+    color:white;
+    margin: 10px 0px 0px 50px;
+}
+
+.forg{
+    color: rgb(141, 240, 240);
+    text-decoration: none;
+}
+.forg:hover{
+    color: rgb(194, 149, 2);
+    text-decoration:underline;
+}
+.log-btn{
+    background: #062b5c;
+    color: white;
+    border-color: #062b5c ;
+}
+.log-btn:hover{
+    cursor: pointer;
+    background-color: #1d63be;
+}
+
+.main-body{
+    width: 100%;
+    height: 450px;
+    background: #E0E0E0;
+}
+
+.left-body{
+    width: 50%;
+    float: left;
+    margin-left: 50px;
+    padding-top: 70px;
+}
+.right-body{
+    width: 30%;
+    float:left;
+}
+
+.image-fb{
+    height: 180px;
+    mix-blend-mode:darken;
+
+}
+
+.para1{
+    margin-left: 55px;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.footer{
+    width: 100%;
+    height: 90px;
+    background: rgb(255, 255, 255);
+}
+
+.foot{
+   margin-left: 20px;
+}
+
+#sub-btn{
+        background-color: #5add5f;
+        border: none;
+        color: rgb(255, 255, 255);
+        padding: 15px;
+        border-radius: 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+}
